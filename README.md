@@ -1,9 +1,9 @@
 # Tampermonkey-Plugin
 
-| Plugin                                                 | Function                             |
-| ------------------------------------------------------ | ------------------------------------ |
-| [Get Emails](#get-emails)                              | Scrape all emails from single page   |
-| [Default Youtube PlaySpeed](default-youtube-playspeed) | Set you custom playspeed for YouTube |
+| Plugin                                                  | Function                             |
+| ------------------------------------------------------- | ------------------------------------ |
+| [Get Emails](#get-emails)                               | Scrape all emails from single page   |
+| [Default Youtube PlaySpeed](#default-youtube-playspeed) | Set you custom playspeed for YouTube |
 
 #### Get Emails
 
